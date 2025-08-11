@@ -4,6 +4,6 @@
 </head>
 <body>
     <h1>Messi Gabriel</h1>
-	<p>Bienvenue sur le cours d'Assurance de qualité logicielle de cette session</p>
+	<p>Bienvenue</p>
 </body>
 </html>
